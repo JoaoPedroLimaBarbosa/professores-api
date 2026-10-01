@@ -229,7 +229,7 @@ Os casos 1 a 4 foram testados no Postman. Os casos 5 e 6 foram testados com `cur
 ### Caso 1 - Listar professores
 `GET /professores`
 
-![Listar professores](prints/listar.jpeg)
+   ![Listar professores](prints/listar.jpeg)
 
 ### Caso 2 - Filtrar por nome
 `GET /professores/nome/silva`
